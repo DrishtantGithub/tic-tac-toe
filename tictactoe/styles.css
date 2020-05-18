@@ -1,0 +1,15 @@
+body{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+table#game td{
+    background-color:beige;
+    height:200px;
+    width:200px;
+    border:solid saddlebrown 5px;
+    border-radius: 10px;
+    text-align:center;
+    font-size:60pt;
+    font-weight: bold;
+
+}
